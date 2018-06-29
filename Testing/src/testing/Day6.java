@@ -2,7 +2,7 @@ package testing;
 
 import java.util.Scanner;
 
-public class day6 {
+public class Day6 {
 	private static Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) {
