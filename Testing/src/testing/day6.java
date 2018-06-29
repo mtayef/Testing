@@ -2,7 +2,7 @@ package testing;
 
 import java.util.Scanner;
 
-public class HackerRankSolution3 {
+public class day6 {
 	private static Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) {
